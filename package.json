@@ -2,11 +2,6 @@
   "name": "site-status",
   "description": "a simple site-status pages, power by uptimerobot",
   "version": "2.0.0",
-  "author": {
-    "name": "imsyy",
-    "email": "one@imsyy.top",
-    "url": "https://github.com/imsyy/"
-  },
   "license": "MIT",
   "type": "module",
   "scripts": {
